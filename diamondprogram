@@ -14,5 +14,5 @@ def displaytriangle(num):
 			whats up
 
 
-num = int(input("Enter The Number Of Lines"))
+num = int(input("Enter The Number Of Line"))
 displaytriangle(num)
