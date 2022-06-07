@@ -10,7 +10,9 @@ def displaytriangle(num):
             print(" " * sc, end="")
             print("*" * i)
             sc = sc + 1
+			hello there
+			whats up
 
 
-num = int(input("Enter The Number Of Lines"))
+num = int(input("Enter The Number Of Line"))
 displaytriangle(num)
